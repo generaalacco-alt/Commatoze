@@ -1,7 +1,7 @@
 {
   "name": "Commatoze",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Commatoze",
     "password": "",
     "type": "offline"
   },
@@ -46,21 +46,21 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 300
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 50
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 100
     }
   },
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -70,7 +70,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
