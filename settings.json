@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Commatoze",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "RUDRABHUSHAN359.aternos.me",
+    "port": 43313,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I want Rudra",
+        "I want to sleep with rudra",
+        "I love Rudra "
       ]
     },
     "chat-log": true,
